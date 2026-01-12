@@ -6,3 +6,4 @@ in the individual repos don't exist.
 This contains:
 
 - Code of Conduct
+- Logo Font template
